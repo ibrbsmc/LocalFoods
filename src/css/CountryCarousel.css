@@ -1,0 +1,30 @@
+/* Carousel kapsayıcı */
+.carousel-wrapper {
+  width: 100%;
+  max-width: 1200px;
+  margin: 100px auto; /* Yukarı ve aşağı 50px margin */
+  overflow: hidden;
+  position: relative;
+}
+
+/* Carousel container */
+.carousel-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Carousel item */
+.carousel-item {
+  text-align: center;
+}
+
+/* Resimlerin sabit boyutta kalmasını sağlıyoruz */
+.country-carousel {
+  width: 100%; /* Ekran boyutuna göre esnek */
+  width: 800px; /* Maksimum genişlik */
+  height: 540px; /* Sabit yükseklik */
+  object-fit: cover; /* Resmin oranını koruyoruz */
+  border-radius: 10px;
+}

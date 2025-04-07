@@ -1,0 +1,12 @@
+body, html {
+  overflow-x: hidden; /* Yatay scrollbar'ı kapatır */
+  margin: 0;
+  padding: 0;
+}
+.main-container{
+  background: url(../public/images/main/mainwpp.png);
+  background-size: cover;
+  background-position: center;
+
+}
+

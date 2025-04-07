@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "Turkey",
+    "flag": "/images/turkey.png",
+    "landscapes": ["/images/countries/turkey1.avif", "/images/countries/turkey2.avif","/images/countries/turkey3.avif"],
+    "dishes": [
+      { "name": "Kebap", "image": "/images/foods/turkey/kebap.jpg" },
+      { "name": "Lahmacun", "image": "/images/foods/turkey/lahmacun.jpg" },
+      { "name": "Mantı", "image": "/images/foods/turkey/manti.jpg" },
+      { "name": "Börek", "image": "/images/foods/turkey/börek.png" },
+      { "name": "Menemen", "image": "/images/foods/turkey/menemen.jpg" },
+      { "name": "Dolma ve Sarma", "image": "/images/foods/turkey/sarma.jpg" },
+      { "name": "Köfte", "image": "/images/foods/turkey/köfte.webp" },
+      { "name": "Pide", "image": "/images/foods/turkey/pide.jpg" },
+      { "name": "Baklava", "image": "/images/foods/turkey/baklava.jpeg" }
+      
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Germany",
+    "flag": "/images/deu.png",
+    "landscapes": ["/images/countries/germany1.avif", "/images/countries/germany2.avif","/images/countries/germany3.avif"],
+    "dishes": [
+      { "name": "Bratwurst", "image": "/images/foods/germany/Bratwurst.jpg" },
+      { "name": "Sauerkraut", "image": "/images/foods/germany/Sauerkraut.jpg" },
+      { "name": "Pretzel", "image": "/images/foods/germany/Pretzel.jpg" },
+      { "name": "Schnitzel", "image": "/images/foods/germany/Schnitzel.jpg" },
+      { "name": "Sauerbraten", "image": "/images/foods/germany/Sauerbraten.jpg" },
+      { "name": "Currywurst", "image": "/images/foods/germany/Currywurst.avif" },
+      { "name": "Käsespätzle", "image": "/images/foods/germany/Käsespätzle.jpg" },
+      { "name": "Eisbein", "image": "/images/foods/germany/Eisbein.jpg" },
+      { "name": "Kartoffelsalat", "image": "/images/foods/germany/Kartoffelsalat.avif" }
+
+    ]
+  },
+  {
+    "id": 3,
+    "name": "England",
+    "flag": "/images/eng.png",
+    "landscapes": ["/images/countries/england1.avif", "/images/countries/england2.avif","/images/countries/england3.avif"],
+    "dishes": [
+      { "name": "Fish and Chips", "image": "/images/foods/england/fish.jpg" },
+      { "name": "Shepherd’s Pie", "image": "/images/foods/england/pie.jpg" },
+      { "name": "Full English Breakfast", "image": "/images/foods/england/breakfast.jpeg" },
+      { "name": "Roast Beef and Yorkshire Pudding", "image": "/images/foods/england/pudding.jpg" },
+      { "name": "Bangers and Mash", "image": "/images/foods/england/mash.webp" },
+      { "name": "Cornish Pasty", "image": "/images/foods/england/pasty.jpg" },
+      { "name": "Chicken Tikka Masala", "image": "/images/foods/england/masala.jpg" },
+      { "name": "Ploughman’s Lunch", "image": "/images/foods/england/lunch.jpg" },
+      { "name": "Sticky Toffee Pudding", "image": "/images/foods/england/Pudding2.jpg" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Mexico",
+    "flag": "/images/mexico.png",
+    "landscapes": ["/images/countries/mexico1.avif", "/images/countries/mexico2.avif","/images/countries/mexico3.avif"],
+    "dishes": [
+      { "name": "Tacos al Pastor", "image": "/images/foods/mexico/tacos.jpeg" },
+      { "name": "Guacamole", "image": "/images/foods/mexico/Guacamole.avif" },
+      { "name": "Chiles en Nogada", "image": "/images/foods/mexico/chiles.jpg" },
+      { "name": "Enchiladas", "image": "/images/foods/mexico/Enchiladas.jpg" },
+      { "name": "Tamales", "image": "/images/foods/mexico/Tamales.jpg" },
+      { "name": "Pozole", "image": "/images/foods/mexico/Pozole.jpg" },
+      { "name": "Quesadillas", "image": "/images/foods/mexico/Quesadillas.jpg" },
+      { "name": "Mole Poblano", "image": "/images/foods/mexico/mole.jpg" },
+      { "name": "Ceviche", "image": "/images/foods/mexico/Ceviche.jpg" }
+
+    ]
+  },
+  {
+    "id": 5,
+    "name": "China",
+    "flag": "/images/china.png",
+    "landscapes": ["/images/countries/china1.avif", "/images/countries/china2.avif", "/images/countries/china3.avif"],
+    "dishes": [
+      { "name": "Peking Duck", "image": "/images/foods/china/peking.jpg" },
+      { "name": "Kung Pao Chicken", "image": "/images/foods/china/kung.jpg" },
+      { "name": "Dim Sum", "image": "/images/foods/china/dim.jpg" },
+      { "name": "Mapo Tofu", "image": "/images/foods/china/mapo.jpg" },
+      { "name": "Chow Mein", "image": "/images/foods/china/chow.jpeg" },
+      { "name": "Hot and Sour Soup", "image": "/images/foods/china/soup.jpg" },
+      { "name": "Sweet and Sour Pork", "image": "/images/foods/china/pork.avif" },
+      { "name": "Xiaolongbao (Soup Dumplings)", "image": "/images/foods/china/Xiaolongbao.jpg" },
+      { "name": "Fried Rice (Yangzhou Fried Rice)", "image": "/images/foods/china/rice.webp" }
+    ]
+  },
+    {
+    "id": 6,
+    "name": "Italy",
+    "flag": "/images/italy.png",
+    "landscapes": ["/images/countries/italy1.avif", "/images/countries/italy2.avif","/images/countries/italy3.avif"],
+    "dishes": [
+      { "name": "Pizza Margherita", "image": "/images/foods/italy/pizza.jpg" },
+      { "name": "Pasta Carbonara", "image": "/images/foods/italy/pasta.jpg" },
+      { "name": "Lasagna", "image": "/images/foods/italy/Lasagna.jpg" },
+      { "name": "Risotto", "image": "/images/foods/italy/Risotto.jpg" },
+      { "name": "Tiramisu", "image": "/images/foods/italy/Tiramisu.webp" },
+      { "name": "Ravioli", "image": "/images/foods/italy/Ravioli.jpg" },
+      { "name": "Ossobuco", "image": "/images/foods/italy/Ossobuco.jpg" },
+      { "name": "Caprese Salad", "image": "/images/foods/italy/Salad.webp" },
+      { "name": "Focaccia", "image": "/images/foods/italy/Focaccia.jpg" }
+
+    ]
+  },
+    {
+    "id": 7,
+    "name": "United States",
+    "flag": "/images/usa.png",
+    "landscapes": ["/images/countries/usa1.avif", "/images/countries/usa2.avif","/images/countries/usa3.avif"],
+    "dishes": [
+      { "name": "Hamburger", "image": "/images/foods/usa/hamburger.jpg" },
+      { "name": "Hot Dog", "image": "/images/foods/usa/hotdog.jpg" },
+      { "name": "Buffalo Wings", "image": "/images/foods/usa/wings.jpg" },
+      { "name": "Mac and Cheese", "image": "/images/foods/usa/mac.png" },
+      { "name": "Barbecue Ribs", "image": "/images/foods/usa/bbq.jpg" },
+      { "name": "Fried Chicken", "image": "/images/foods/usa/chicken.jpg" },
+      { "name": "Pancakes", "image": "/images/foods/usa/pancakes.jpg" },
+      { "name": "Clam Chowder", "image": "/images/foods/usa/clam.webp" },
+      { "name": "Apple Pie", "image": "/images/foods/usa/pie.jpg" }
+    ]
+  },
+    {
+    "id": 8,
+    "name": "France",
+    "flag": "/images/france.png",
+    "landscapes": ["/images/countries/france1.avif", "/images/countries/france2.avif","/images/countries/france3.avif"],
+    "dishes": [
+      { "name": "Croissant", "image": "/images/foods/france/Croissant.jpg" },
+      { "name": "Coq au Vin", "image": "/images/foods/france/Vin.jpg" },
+      { "name": "Ratatouille", "image": "/images/foods/france/Ratatouille.jpg" },
+      { "name": "Bouillabaisse", "image": "/images/foods/france/Bouillabaisse.jpg" },
+      { "name": "Quiche Lorraine", "image": "/images/foods/france/Lorraine.jpg" },
+      { "name": "Crêpes", "image": "/images/foods/france/Crêpes.jpg" },
+      { "name": "Beef Bourguignon", "image": "/images/foods/france/Beef.jpg" },
+      { "name": "Escargots de Bourgogne", "image": "/images/foods/france/Escargots.jpg" },
+      { "name": "Tarte Tatin", "image": "/images/foods/france/Tarte.jpg" }
+    ]
+  },
+    {
+    "id": 9,
+    "name": "Russia",
+    "flag": "/images/rusia.png",
+    "landscapes": ["/images/countries/russia1.avif", "/images/countries/russia2.avif","/images/countries/russia3.avif"],
+    "dishes": [
+      { "name": "Borscht", "image": "/images/foods/russia/Borscht.jpg" },
+      { "name": "Pelmeni", "image": "/images/foods/russia/Pelmeni.jpg" },
+      { "name": "Beef Stroganoff", "image": "/images/foods/russia/Stroganoff.webp" },
+      { "name": "Blini", "image": "/images/foods/russia/Blini.jpg" },
+      { "name": "Olivier Salad", "image": "/images/foods/russia/Olivier.jpg" },
+      { "name": "Shashlik", "image": "/images/foods/russia/Shashlik.jpg" },
+      { "name": "Vareniki", "image": "/images/foods/russia/Vareniki.jpg" },
+      { "name": "Pirozhki", "image": "/images/foods/russia/Pirozhki.jpg" },
+      { "name": "Medovik", "image": "/images/foods/russia/Medovik.jpg" }
+    ]
+  },
+    {
+    "id": 10,
+    "name": "Iranian",
+    "flag": "/images/iran.png",
+    "landscapes": ["/images/countries/ir1.avif", "/images/countries/ir2.avif","/images/countries/ir3.avif"],
+    "dishes": [
+      { "name": "Chelow Kebab", "image": "/images/foods/iranian/Chelow.jpg" },
+      { "name": "Ghormeh Sabzi", "image": "/images/foods/iranian/Ghormeh.jpg" },
+      { "name": "Fesenjan", "image": "/images/foods/iranian/Fesenjan.jpg" },
+      { "name": "Zereshk Polo", "image": "/images/foods/iranian/Zereshk.webp" },
+      { "name": "Tahdig", "image": "/images/foods/iranian/Tahdig.jpg" },
+      { "name": "Ash Reshteh", "image": "/images/foods/iranian/Reshteh.jpg" },
+      { "name": "Koofteh Tabrizi", "image": "/images/foods/iranian/Koofteh.jpg" },
+      { "name": "Baghali Polo", "image": "/images/foods/iranian/Baghali.jpg" },
+      { "name": "Kebab Koobideh", "image": "/images/foods/iranian/Koobideh.jpg" }
+    ]
+  }
+  
+]

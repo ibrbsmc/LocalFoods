@@ -1,0 +1,13 @@
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Sayfanın tamamını kaplasın */
+  font-size: 18px;
+  color: #007bff;
+}
+
+.loading-container p {
+  margin-top: 10px;
+}

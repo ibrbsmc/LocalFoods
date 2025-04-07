@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+
+
+
+.header-container {
+  /* background-color: #000000; */
+  background-image: url(../../public/images/flags/earth.jpg);
+  background-position-y:-9%;
+  background-position-x: 0%;
+  position: sticky;
+  top: 0px;
+  width: 100%;
+  gap: 60px; /* Bootstrap flex ile gap çalışır */
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  margin-bottom: 50px;
+  min-height: 80px;
+  max-height: 550px;  
+}
+
+.header-title {
+  color: #F9F7F7;
+  font-size: 1.6rem;
+  padding: 0 15px !important;
+  text-align: center !important;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 500;
+  position: relative;
+  bottom: -7px; 
+  left: -0px;
+}
+
+.flag-img {
+  width: 10vw; /* Ekran genişliğine göre ayarlanabilir */
+  max-width: 55px; /* Çok büyümesini engelledik */
+  min-width: 45px; /* Çok küçülmesini engelledik */
+  height: 36px;
+  margin-top: 4px !important;
+  margin-bottom: 4px !important;
+  border: 1px solid rgb(255, 255, 255);
+  box-shadow: 1px 2px 8px rgb(58, 0, 192);
+}
+.img-container{
+    display: flex;
+    gap: 80px !important ;
+    flex-wrap: wrap !important;
+    margin: 5px 5px;
+    justify-content: center;
+    
+}

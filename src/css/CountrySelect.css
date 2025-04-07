@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+
+.country-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 10px;
+}
+
+.country-form{
+    width: 300px !important;
+    background-color: #eeee !important;
+    color: #222831 !important;
+    font-weight: bolder !important;
+    font-family: 'Quicksand';
+}
+.country-form:focus{
+    background-color: #222831 !important;
+    color: #eeee !important;
+}
